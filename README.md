@@ -44,6 +44,8 @@ Brokers, gateways, policy engines and guardrails that sit between an agent and t
 - [agent-airlock](https://github.com/sattyamjjain/agent-airlock) - Deny-by-default contract layer for AI agent tool calls, with strict argument validation, ghost-argument stripping and self-healing retries, applied as one decorator.
 - [AEGIS](https://github.com/antropos17/Aegis) - Windows-first desktop oversight for AI agents with local monitoring, security reviews, opt-in action policies and MCP gateways.
 
+- [InGravity](https://github.com/Tchesseludovic17-cloud/ingravity) - Open-source governance and safety layer for AI agents: deterministic policy checks before actions, SQLite audit records, human approval workflows, API-key authentication, and an MCP gateway.
+
 ## Sandboxes
 
 Isolation for the code and processes an agent runs.
